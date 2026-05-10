@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Runaway",
+    "artist": "AURORA",
+    "album": "Neon Vertigo",
+    "duration_sec": 227,
+    "is_liked": true
+  },
+  {
+    "title": "Thursday",
+    "artist": "Khruangbin",
+    "album": "Terracotta",
+    "duration_sec": 252,
+    "is_liked": false
+  },
+  {
+    "title": "Goodie Bag",
+    "artist": "Still Woozy",
+    "album": "Still Woozy",
+    "duration_sec": 209,
+    "is_liked": false
+  },
+  {
+    "title": "Let It Happen",
+    "artist": "Tame Impala",
+    "album": "Bloom Season",
+    "duration_sec": 467,
+    "is_liked": true
+  },
+  {
+    "title": "Kong",
+    "artist": "Bonobo",
+    "album": "Midnight Run",
+    "duration_sec": 306,
+    "is_liked": false
+  },
+  {
+    "title": "Yellow Is the Color",
+    "artist": "Soccer Mommy",
+    "album": "Colour Theory",
+    "duration_sec": 298,
+    "is_liked": false
+  },
+  {
+    "title": "Solar Power",
+    "artist": "Lorde",
+    "album": "Solar Power",
+    "duration_sec": 163,
+    "is_liked": false
+  },
+  {
+    "title": "Coffee",
+    "artist": "beabadoobee",
+    "album": "Fake It Flowers",
+    "duration_sec": 178,
+    "is_liked": false
+  },
+  {
+    "title": "Heat Waves",
+    "artist": "Glass Animals",
+    "album": "Dreamland",
+    "duration_sec": 238,
+    "is_liked": true
+  },
+  {
+    "title": "Motion Sickness",
+    "artist": "Phoebe Bridgers",
+    "album": "Stranger in the Alps",
+    "duration_sec": 222,
+    "is_liked": false
+  }
+]
